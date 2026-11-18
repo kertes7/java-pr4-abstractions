@@ -1,0 +1,4 @@
+errors\E2_NotImplemented.java:5: error: Circle is not abstract and does not override abstract method area() in Shape
+class Circle extends Shape { }      // абстрактний метод area() не реалізовано
+^
+1 error

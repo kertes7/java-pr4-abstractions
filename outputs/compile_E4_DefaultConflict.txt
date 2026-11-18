@@ -1,0 +1,5 @@
+errors\E4_DefaultConflict.java:4: error: types Drawable and Scalable are incompatible;
+class Circle implements Drawable, Scalable { }       // конфлікт default-методів не розв'язано
+^
+  class Circle inherits unrelated defaults for info() from types Drawable and Scalable
+1 error

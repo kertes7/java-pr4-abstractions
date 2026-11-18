@@ -1,0 +1,4 @@
+errors\E1_NewAbstract.java:8: error: Shape is abstract; cannot be instantiated
+        Shape s = new Shape();      // не можна створити екземпляр абстрактного класу
+                  ^
+1 error

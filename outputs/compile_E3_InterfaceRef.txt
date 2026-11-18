@@ -1,0 +1,6 @@
+errors\E3_InterfaceRef.java:13: error: cannot find symbol
+        d.scale(2);                 // через Drawable метод scale недоступний
+         ^
+  symbol:   method scale(int)
+  location: variable d of type Drawable
+1 error
